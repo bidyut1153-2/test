@@ -35,4 +35,3 @@ jobs:
           echo check the df
           echo Disk space is preparing full
           df
-          cp /dev/zero ~
