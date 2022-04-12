@@ -1,0 +1,9 @@
+Hit:1 https://rendiix.github.io android-tools InRelease
+Ign:2 https://yadominjinta.github.io/files termux InRelease
+Hit:3 https://yadominjinta.github.io/files termux Release
+Ign:4 https://yadominjinta.github.io/files termux Release.gpg
+Hit:5 https://packages-cf.termux.org/apt/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
